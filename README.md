@@ -1,5 +1,5 @@
 - 👋 This is @octobitxyz a Project Space by @sheunl to handle user projects
-- 👀 Interested in Computer graphics and Computer Vision
+- 👀 Woking on Machine Learning, Computer Vision and NLP
 - 💞️ Looking to collaborate on projects for business uses
 - 📫 visit https://www.octobit.xyz for more info
 
